@@ -1,7 +1,7 @@
 <a href="#"><img width="100%" height="auto" src="https://miro.medium.com/max/680/0*7Q3yvSIv_t0ioJ-Z.gif" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Alisher</h1>
-<h3 align="center">I'm a Full Stack Flutter Developer from Uzbekistan</h3>
+<h3 align="center">I'm a Software engineer from Uzbekistan</h3>
 
 
 ## 🙋‍♂️ About Me
